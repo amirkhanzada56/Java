@@ -6,3 +6,7 @@ Day 1:
 Day 2:
 
 --> Print Hello World
+
+Day 3:
+
+--> Output, Variables, Datatypes, TypeConversion, Input 
