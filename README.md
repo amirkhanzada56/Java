@@ -1,6 +1,6 @@
-Day 1 : 
+Day 1:
 
---> Install JDK 
+--> Install JDK
 --> Setup Intellij Idea
 
 Day 2:
